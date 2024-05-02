@@ -1,5 +1,7 @@
 package tch.ncl.brt.javabasico.a01;
 
+import java.util.Locale;
+
 public class AnatomiaDasClasses01 {
     //Aula 01
     //Se é uma classe executável, tem que ter um método main (psvm)
@@ -55,5 +57,4 @@ public class AnatomiaDasClasses01 {
     > Classes: Devem ser substantivos. Ex: Aluno
     > Pacotes: Devem ser em minúsculo. Ex: edu.nicole
     > Constantes: Devem ser em maiúsculo. Ex: PI
-*/
-}
+*/}
